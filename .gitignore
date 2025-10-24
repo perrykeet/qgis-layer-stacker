@@ -1,0 +1,26 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# QGIS project backups
+*.qgs~
+*.qgz~
+
+# Temporary files
+*.aux
+*.log
+*.tmp
+
+# Raster/large data outputs
+*.tif
+*.tiff
+*.img
+
+# OSGEO / processing folders
+.qgis2/
+.qgis3/
+
+# OS files
+Thumbs.db
+.DS_Store
